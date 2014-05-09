@@ -3,7 +3,7 @@
   "description": "Meteor packaging of http://ethaizone.github.io/Bootstrap-Confirmation/",
   "homepage": "http://ethaizone.github.io/Bootstrap-Confirmation/",
   "author": "Dennis Monsewicz (https://github.com/dennismonsewicz)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/dennismonsewicz/meteor-bootstrap-confirmation",
   "packages": {}
 }
