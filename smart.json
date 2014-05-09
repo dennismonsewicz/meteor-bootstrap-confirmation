@@ -1,9 +1,9 @@
 {
   "name": "meteor-bootstrap-confirmation",
-  "description": "REPLACEME - What does this package (or the original one you're wrapping) do?",
-  "homepage": "",
-  "author": "Your Name <your@email> (http://yoursite)",
+  "description": "Meteor packaging of http://ethaizone.github.io/Bootstrap-Confirmation/",
+  "homepage": "http://ethaizone.github.io/Bootstrap-Confirmation/",
+  "author": "Dennis Monsewicz (https://github.com/dennismonsewicz)",
   "version": "0.0.1",
-  "git": "",
+  "git": "https://github.com/dennismonsewicz/meteor-bootstrap-confirmation",
   "packages": {}
 }

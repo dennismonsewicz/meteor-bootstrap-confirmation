@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Meteorite Package for Bootstrap Confirmation http://ethaizone.github.io/Bootstrap-Confirmation/"
+  summary: ""
 });
 
 Package.on_use(function (api, where) {
